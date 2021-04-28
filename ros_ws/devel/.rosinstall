@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kentuen/Robot_Demonstrations/ros_ws/devel/setup.sh
